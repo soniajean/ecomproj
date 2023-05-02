@@ -11,6 +11,7 @@ Flask-Login==0.6.2
 Flask-Migrate==4.0.4
 Flask-Moment==1.0.5
 Flask-SQLAlchemy==3.0.3
+Flask-WTF==1.1.1
 greenlet==2.0.2
 gunicorn==20.1.0
 idna==3.4
@@ -27,3 +28,5 @@ stripe==5.4.0
 typing_extensions==4.5.0
 urllib3==1.26.15
 Werkzeug==2.2.3
+
+
